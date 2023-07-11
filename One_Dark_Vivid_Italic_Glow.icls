@@ -1,10 +1,10 @@
-<scheme name="One Dark Vivid Italic" version="142" parent_scheme="Darcula">
+<scheme name="One Dark Vivid Italic copy2" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-07-07T14:28:39</property>
+    <property name="created">2023-07-11T18:39:12</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.3.0.0</property>
-    <property name="modified">2023-07-07T14:28:49</property>
-    <property name="originalScheme">_@user_One Dark Vivid Italic</property>
+    <property name="modified">2023-07-11T18:39:19</property>
+    <property name="originalScheme">One Dark Vivid Italic copy2</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
@@ -611,7 +611,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffbb7c" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -1019,13 +1019,18 @@
     <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffba7d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="89ca78" />
+        <option name="FOREGROUND" value="adff99" />
+      </value>
+    </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="36ffdd" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -1036,7 +1041,7 @@
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ef596f" />
+        <option name="FOREGROUND" value="ff6077" />
       </value>
     </option>
     <option name="HTTP_REQUEST_INPUT_FILE">
