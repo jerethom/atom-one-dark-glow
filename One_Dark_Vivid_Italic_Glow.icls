@@ -1,10 +1,10 @@
-<scheme name="One Dark Vivid Italic Glow" version="142" parent_scheme="Darcula">
+<scheme name="One Dark Vivid Italic copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-07-21T14:53:53</property>
+    <property name="created">2023-07-21T15:01:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.4.0.0</property>
-    <property name="modified">2023-07-21T14:54:03</property>
-    <property name="originalScheme">One Dark Vivid Italic</property>
+    <property name="modified">2023-07-21T15:01:21</property>
+    <property name="originalScheme">One Dark Vivid Italic copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
@@ -86,7 +86,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="BACKGROUND" value="9b3636" />
+        <option name="BACKGROUND" value="da4f4f" />
       </value>
     </option>
     <option name="BASH.BINARY_DATA">
@@ -339,33 +339,33 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="2bbac5" />
+        <option name="FOREGROUND" value="39efff" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="68b9ff" />
       </value>
     </option>
     <option name="CSS.HASH">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="67b9ff" />
       </value>
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="d39a63" />
+        <option name="FOREGROUND" value="ffba78" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="d55fde" />
+        <option name="FOREGROUND" value="f56cff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d55fde" />
+        <option name="FOREGROUND" value="f671ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -374,24 +374,24 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffb97c" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
       <value>
-        <option name="FOREGROUND" value="2bbac5" />
+        <option name="FOREGROUND" value="37f1ff" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ef596f" />
+        <option name="FOREGROUND" value="ff6178" />
       </value>
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffbe7c" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="d19a66" />
+        <option name="EFFECT_COLOR" value="ffbd7e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -576,7 +576,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="93a4bb" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -674,7 +674,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="93a4bb" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2277,7 +2277,12 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffbf7b" />
+      </value>
+    </option>
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="33ffde" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -2287,7 +2292,7 @@
     </option>
     <option name="XML_NS_PREFIX">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffbc7c" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
@@ -2299,7 +2304,7 @@
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ef596f" />
+        <option name="FOREGROUND" value="ff6077" />
       </value>
     </option>
     <option name="XPATH.KEYWORD">
