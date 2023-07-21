@@ -1,10 +1,10 @@
-<scheme name="One Dark Vivid Italic copy2" version="142" parent_scheme="Darcula">
+<scheme name="One Dark Vivid Italic Glow" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-07-11T18:39:12</property>
+    <property name="created">2023-07-21T14:53:53</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2023.1.3.0.0</property>
-    <property name="modified">2023-07-11T18:39:19</property>
-    <property name="originalScheme">One Dark Vivid Italic copy2</property>
+    <property name="ideVersion">2023.1.4.0.0</property>
+    <property name="modified">2023-07-21T14:54:03</property>
+    <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
@@ -2316,17 +2316,17 @@
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FOREGROUND" value="ffd689" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="ef596f" />
+        <option name="FOREGROUND" value="ff6176" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="89ca78" />
+        <option name="FOREGROUND" value="abff98" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
@@ -2336,7 +2336,7 @@
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="89ca78" />
+        <option name="FOREGROUND" value="adff98" />
       </value>
     </option>
     <option name="com.plan9.IDENTIFIER">
