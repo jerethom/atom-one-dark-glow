@@ -1,10 +1,10 @@
-<scheme name="One Dark Vivid Italic copy" version="142" parent_scheme="Darcula">
+<scheme name="One Dark Vivid Italic Glow" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2023-07-21T15:03:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.4.0.0</property>
     <property name="modified">2023-07-21T15:03:53</property>
-    <property name="originalScheme">One Dark Vivid Italic copy</property>
+    <property name="originalScheme">One Dark Vivid Italic Glow</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
