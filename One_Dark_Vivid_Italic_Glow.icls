@@ -1,9 +1,9 @@
 <scheme name="One Dark Vivid Italic copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-07-21T15:01:10</property>
+    <property name="created">2023-07-21T15:03:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.4.0.0</property>
-    <property name="modified">2023-07-21T15:01:21</property>
+    <property name="modified">2023-07-21T15:03:53</property>
     <property name="originalScheme">One Dark Vivid Italic copy</property>
   </metaInfo>
   <colors>
@@ -887,12 +887,6 @@
     <option name="GHERKIN_TABLE_PIPE">
       <value />
     </option>
-    <option name="GO_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="5c6370" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="GO_BUILTIN_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -932,12 +926,6 @@
     <option name="GO_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GO_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="5c6370" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
