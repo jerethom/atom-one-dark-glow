@@ -1,10 +1,10 @@
-<scheme name="One Dark Vivid Italic Glow" version="142" parent_scheme="Darcula">
+<scheme name="One Dark Vivid Italic copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-07-21T15:03:44</property>
+    <property name="created">2023-07-22T11:51:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.4.0.0</property>
-    <property name="modified">2023-07-21T15:03:53</property>
-    <property name="originalScheme">One Dark Vivid Italic Glow</property>
+    <property name="modified">2023-07-22T11:51:50</property>
+    <property name="originalScheme">One Dark Vivid Italic copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
@@ -1431,7 +1431,7 @@
     </option>
     <option name="MARKDOWN_CODE_SPAN">
       <value>
-        <option name="FOREGROUND" value="89ca78" />
+        <option name="FOREGROUND" value="a7ff95" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_SPAN_MARKER">
@@ -1441,12 +1441,12 @@
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
       <value>
-        <option name="FOREGROUND" value="2bbac5" />
+        <option name="FOREGROUND" value="38eeff" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_2">
       <value>
-        <option name="FOREGROUND" value="2bbac5" />
+        <option name="FOREGROUND" value="3cf0ff" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_3">
@@ -1503,22 +1503,22 @@
     </option>
     <option name="NG.BANANA_BINDING_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffb97b" />
       </value>
     </option>
     <option name="NG.EVENT_BINDING_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffba80" />
       </value>
     </option>
     <option name="NG.PROPERTY_BINDING_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffbd7e" />
       </value>
     </option>
     <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="ffbd7e" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -2155,7 +2155,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="e3e3e3" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
