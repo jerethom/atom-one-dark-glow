@@ -1,9 +1,9 @@
 <scheme name="One Dark Vivid Italic copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-07-22T11:51:41</property>
+    <property name="created">2023-07-24T15:59:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.4.0.0</property>
-    <property name="modified">2023-07-22T11:51:50</property>
+    <property name="modified">2023-07-24T15:59:28</property>
     <property name="originalScheme">One Dark Vivid Italic copy</property>
   </metaInfo>
   <colors>
@@ -576,7 +576,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="93a4bb" />
+        <option name="FOREGROUND" value="798a9b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -595,7 +595,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ffba7b" />
+        <option name="FOREGROUND" value="ff8181" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -636,12 +636,12 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ff5e75" />
+        <option name="FOREGROUND" value="c8e2ff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="e3e3e3" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -674,7 +674,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="93a4bb" />
+        <option name="FOREGROUND" value="798a9b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2184,7 +2184,7 @@
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FOREGROUND" value="ffd689" />
       </value>
     </option>
     <option name="TYPEDEF">
